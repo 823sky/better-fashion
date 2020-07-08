@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- TODO: Update the heading with the name of your website -->
+    <title>break the chain.</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheets -->
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/take-action.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+   
+
+
+    <!-- TODO: Add any links to Google font families here -->
+  </head>
+  <body>
+    <nav>
+      <ul class="nav-bar">
+        <li class="nav-bar"><a href="index.html">Home</a></li>
+        <li class="nav-bar"><a href="break-the-chain.html">Break the Chain</a></li>
+        <li class="nav-bar"><a href="take-action.html">Take Action</a></li>
+      </ul>
+    </nav>
+
+    <!------------------------------->
+    <!---------TOP SECTION----------->
+    <!------------------------------->
+    <!--Top section with title and description-->
+    <div class="main-message">
+      <div class="flex-container">
+        <div class="heading-home">
+          <!-- TODO: Update the heading with the title of your website -->
+          better fashion.
+        </div>
+
+        <div class="intro-text">
+          <!-- TODO: Update the placeholder introduction text with your own intro text -->
+
+         Breaking the Chain of Fast Fashion; knowing your clothing.
+        </div>
+      </div>
+    </div>
+
+    <!------------------------------->
+    <!----------SECTION 1------------>
+    <!------------------------------->
+    <!--Text section-->
+    <div class="text-section">
+      <h2>
+        <!-- TODO: Update the heading with your own -->
+
+       Knowledge is Power
+      </h2>
+
+      <p>
+        <!-- TODO: Update the text with your own -->
+     The more that you know about the clothes that your buying, the better. Usually when looking and shopping for clothes, we just look for what looks best on us. While we're not trying to change that, we want to change the clothing that you buy on a much deeper level.
+  Looking at the material your clothing is made from is a huge starting point. Natural fabrics like organic cotton and linen (made from plants) and Tencel (made from sustainable wood pulp) are the best for the environment. Asking where your clothing came from is very important
+        as well. If it's from Bangledesh, India, Indonesia, China, etc. it was probably made under unethical conditions while they were being paid less than a livable wage. Clothing made in countries where your from, tend to have better working conditions. 
+      </p>
+      
+      <!-- OPTIONAL TODO: If you need to attribute the image in a section, add it the text section -->
+
+    </div>
+    <!--Image 1-->
+    <div class="image-one"></div>
+
+    <!------------------------------->
+    <!----------SECTION 2------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+
+    <!------------------------------->
+    <!----------SECTION 3------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+
+    <!------------------------------->
+    <!--Copy and paste if you have more than three sections-->
+    <!----------SECTION X------------>
+    <!------------------------------->
+    <!-- TODO: Copy and paste the HTML from Section 1 and update the text and image class -->
+
+    <!------------------------------->
+    <!---------ABOUT SECTION--------->
+    <!------------------------------->
+    <!--Text section only-->
+
+  </body>
+</html>
